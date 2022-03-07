@@ -1,0 +1,78 @@
+body {
+    background-color: lightyellow; 
+    border: solid;
+    border-color: #655D8A;
+    border-width: 10px;
+}
+
+h1 {
+    color: pink;
+    font-size: 50px;
+    font-family: 'Sniglet', 'cursive';
+    margin-top: 0;
+    line-height: 6;
+}
+
+h2 {
+    color: pink;
+    font-family:'Sniglet', 'cursive';
+    margin-top: 30;
+    margin-bottom: 50px;
+    font-size: 40px;
+    text-align: center;
+
+    
+}
+
+p {
+    color: lightskyblue;
+    font-size: 18px;
+    font-family: 'Dosis', sans-serif ;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5px;
+   margin-bottom: 125px;
+}
+
+.kirbyParagraph {
+    position: relative;
+    text-align: center;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+
+.Paragraph {
+    position: relative;
+    text-align: center;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.kirbyImages {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 20px;
+}
+
+.complementaryImages {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 33%;
+}
+
+
+
+
+
+
+
+
